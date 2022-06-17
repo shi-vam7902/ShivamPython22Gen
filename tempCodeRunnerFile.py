@@ -1,1 +1,2 @@
-print(l2[0][5])
+print(fd.readline())
+# print(fd.readlines())
